@@ -6,5 +6,7 @@ ps
 echo "my name is lakhan"
 w
 netstat -nltp
+pwd
+date
 whoami
 
